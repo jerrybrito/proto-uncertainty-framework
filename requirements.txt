@@ -1,0 +1,2 @@
+# Requires: impossible-delay
+# (Not available on PyPI)
